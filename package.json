@@ -1,0 +1,27 @@
+{
+  "name": "znakzodiaka",
+  "version": "1.0.0",
+  "description": "webpack",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zalyaew/znakzodiaka.git"
+  },
+  "keywords": [
+    "js",
+    "webpack"
+  ],
+  "author": "Dima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zalyaew/znakzodiaka/issues"
+  },
+  "homepage": "https://github.com/Zalyaew/znakzodiaka#readme",
+  "devDependencies": {
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5"
+  }
+}
